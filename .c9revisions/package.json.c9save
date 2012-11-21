@@ -1,0 +1,2 @@
+{"ts":1353457385282,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1353457359300,"patch":[[{"diffs":[[1,"{\r\n  \"name\": \"MySite\",\r\n  \"version\": \"0.0.1\",\r\n  \"private\": \"true\",\r\n  \"dependencies\": {\r\n    \"express\": \"3.0.0alpha4\",\r\n    \"jade\": \"*\",\r\n    \"stylus\": \"*\",\r\n    \"nib\": \"*\"\r\n  }\r\n}"]],"start1":0,"start2":0,"length1":0,"length2":181}]],"length":181,"saved":false}
